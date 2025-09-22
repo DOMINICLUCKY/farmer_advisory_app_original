@@ -1,16 +1,58 @@
-# new_app_directory
+# 🌾 Farmer Advisory App
 
-A new Flutter project.
+A multilingual, AI-powered mobile app designed to assist farmers with crop advisory, fertilizer recommendations, weather alerts, pest/disease management, and real-time market prices.  
+This project is built as part of the **Smart India Hackathon** initiative.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 App Description
+The Farmer Advisory App empowers farmers by providing **real-time guidance** and support through:
+- Voice-enabled AI assistant for low-literate users
+- Multilingual chatbot support
+- Easy-to-use interface tailored for rural users
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
+- ✅ **AI Voice Assistant** – Farmers can ask queries in natural language  
+- ✅ **Crop Advisory** – Crop-specific tips and seasonal guidance  
+- ✅ **Fertilizer Suggestions** – Urea, DAP, and other nutrient recommendations  
+- ✅ **Weather Alerts** – Real-time weather forecasts and alerts  
+- ✅ **Pest & Disease Management** – Early warnings with remedies  
+- ✅ **Market Prices** – Live mandi/market price updates in graph view  
+- ✅ **Multilingual Support** – Guidance in multiple regional languages  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** Flutter (Dart)  
+- **Backend:** Firebase (Firestore, Authentication, Cloud Functions)  
+- **AI/ML:** Natural Language Processing (Voice + Chatbot)  
+- **APIs:** Weather API, Market Data API  
+- **Tools:** Git, GitHub, Android Studio / VS Code  
+
+---
+
+## 🚀 Future Improvements
+- 🔮 Offline mode for areas with low connectivity  
+- 🔮 Advanced AI models for pest/disease image detection  
+- 🔮 Integration with government schemes and subsidies  
+- 🔮 Personalized dashboards for each farmer  
+- 🔮 Community forum for farmer-to-farmer discussions  
+
+---
+
+## 🤝 How to Contribute
+We welcome contributions to make this project better!  
+
+1. **Fork** the repository  
+2. Create a new **feature branch**:  
+   ```bash
+   git checkout -b feature-name
+3.Commit your changes:
+git commit -m "Added new feature"
+4.Push to your fork:
+git push origin feature-name
+5.Open a Pull Request 🎉
+```
+
